@@ -9,6 +9,9 @@
 - :pushpin:	Focused on learning NLP, deeeeeep learning and machine learning.
 - :hammer_and_wrench:	Experimenting Next.js. 
 
+![oguzkaganaltas's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzkaganaltas&show_icons=true)
+
+
 ## I am
 - :sparkles: interested in: **Machine Learning, Deep Learning, Data Science, Data Analytics, Front-end, Back-end** 
 
