@@ -5,7 +5,7 @@
 
 ## About Me :computer:
 
-- :wave:	My name is Oğuz Kağan. I am a computer engineer and have a master's degree in computer science.
+- :wave:	My name is Oğuz Kağan. I am a computer engineer and having a master's in computer science.
 - :pushpin:	Focused on learning NLP, deeeeeep learning and machine learning.
 - :hammer_and_wrench:	Experimenting Next.js. 
 
