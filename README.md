@@ -25,7 +25,7 @@
 
 ## Education
 
-:man_student:		MSc. Informatics
+:man_student:		MSc. Computer Science (ML)
 [Technical University of Munich](https://www.tum.de/en/)
 
 :mortar_board:	BSc. Computer Engineer 
