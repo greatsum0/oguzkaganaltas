@@ -9,7 +9,7 @@
 - :pushpin:	Focused on learning NLP, deeeeeep learning and machine learning.
 - :hammer_and_wrench:	Experimenting Next.js. 
 
-![oguzkaganaltas's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzkaganaltas&show_icons=true)
+![oguzkaganaltas's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=oguzkaganaltas&show_icons=true)
 
 
 ## I am
