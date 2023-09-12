@@ -6,19 +6,19 @@
 ## About Me :computer:
 
 - :wave:	My name is Oğuz Kağan. I am a computer engineer and I am studying for a master's degree in computer science.
-- :pushpin:	Focused on learning more about machine learning and software engineering.
+- :pushpin:	Focused on learning more about software engineering and machine learning .
 - :hammer_and_wrench:	Experimenting Next.js. 
 
 ![oguzkaganaltas's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=oguzkaganaltas&show_icons=true)
 
 
 ## I am
-- :sparkles: interested in: **Front-end, Back-end, Machine Learning, Deep Learning** 
+- :sparkles: interested in: **Front-end, Back-end, Machine Learning** 
 
 - :seedling: currently learning: **Next.js**
 
 
-💬 Ask me about: **Python, Pytorch, C, JAVA**
+💬 Ask me about: **Python, JavaScript**
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oguzkaganaltas/)
 
