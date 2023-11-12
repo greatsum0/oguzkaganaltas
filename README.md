@@ -5,14 +5,14 @@
 
 ## About Me :computer:
 
-- :wave:	My name is Oğuz Kağan. I am a computer engineer and I am studying for a master's degree in computer science.
+- :wave:	My name is Oğuz Kağan (🗣️ Oouz Kaaan Altash). I am a computer engineer and I am studying for a master's degree in computer science.
 - :pushpin:	Focused on software engineering.
 
 ![oguzkaganaltas's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=oguzkaganaltas&show_icons=true)
 
 
 ## I am
-- :sparkles: interested in: **Front-end, Back-end** 
+:sparkles: interested in: **Front-end, Back-end** 
 
 
 💬 Ask me about: **Python, JavaScript**
