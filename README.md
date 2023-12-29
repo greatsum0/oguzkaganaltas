@@ -32,7 +32,7 @@
 ## Tech Stack :star: :star: :star: :star: :star:
 
 ### Front End Techs :star2:
-![Angular](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next%2Ejs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
